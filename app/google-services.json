@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369456182693",
+    "project_id": "libraryme-85335",
+    "storage_bucket": "libraryme-85335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369456182693:android:39581c5f5762c75c66e44c",
+        "android_client_info": {
+          "package_name": "com.wahyurhy.libraryme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeiwTsuWMBS6kssY02t9DU_e0JNS78XUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

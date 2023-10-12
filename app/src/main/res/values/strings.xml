@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LibraryMe</string>
+    <string name="library_me">Library.Me</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="library">Library</string>
+    <string name="about">About</string>
+    <string name="tambah_buku">Tambah Buku</string>
+    <string name="logo_aplikasi">Logo aplikasi</string>
+    <string name="info_aplikasi_about">Library.me adalah aplikasi yang dikembangkan oleh Wahyu Rahayu dalam keperluan untuk memenuhi syarat pendaftaran lowongan kerja.</string>
+    <string name="tertanda">Tertanda</string>
+    <string name="wahyu_rahayu">Wahyu Rahayu</string>
+    <string name="isbn">ISBN : </string>
+    <string name="pilih_gambar">Pilih Gambar</string>
+    <string name="judul_buku">Judul Buku</string>
+    <string name="pengarang">Pengarang</string>
+    <string name="tahun_terbit">Tahun Terbit</string>
+    <string name="nama_penerbit">Nama Penerbit</string>
+    <string name="simpan">Simpan</string>
+    <string name="isbn_hint">ISBN</string>
+</resources>
